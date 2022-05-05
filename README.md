@@ -8,7 +8,7 @@ Simple game to test and understand strong passwords
 * [Background](#background)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Future Work](#future)
+* [Future Work](#future-work)
 
 ## Background
 This game was created as a final assignment for COSC 4010: Black Hat Go (Spring 2022).
