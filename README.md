@@ -1,7 +1,8 @@
 # Gopher (go for) Tough Passwords
-<img src="./images/game.jpg" alt="game" width="100"/>
-
-Simple game to test and understand strong password 
+<img src="./images/game.jpg" alt="game" width="200" style="inline-block"/>
+<p style="inline-block">
+Simple game to test and understand strong passwords
+</p>
 
 ## Table of Contents
 * [Background](#background)
