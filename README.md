@@ -27,4 +27,6 @@ $ ./main
 - Alter drawing coordiantes to keep gopher visible
 - Add end game condition
 - Create shareable executable
+- Add adversary
+- Improve collision code
 
