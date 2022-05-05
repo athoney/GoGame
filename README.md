@@ -1,4 +1,6 @@
 # Gopher (go for) Tough Passwords
+<img src="./images/game.jpg" alt="game" width="100"/>
+
 Simple game to test and understand strong password 
 
 ## Table of Contents
